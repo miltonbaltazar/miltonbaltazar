@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Milton Baltazar</h1>
 <h3 align="center">A passionate TI Architecture & software developer from Lima - Perú</h3>
 
-- 🔭 I’m currently working on **TCS**
-
-- 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently wworking as a technical leader in RPA
 
 - 👨‍💻 All of my projects are available at [https://miltonbaltazar.github.io/](https://miltonbaltazar.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@mbaltazar.v7](https://medium.com/@mbaltazar.v7)
+- 📝 I regularly write articles on [https://brainybots.substack.com/](https://brainybots.substack.com/)
 
 - 💬 Ask me about **IT Architecture & Software Development**
 
