@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [https://miltonbaltazar.github.io/](https://miltonbaltazar.github.io/)
 
+- 📄 Resume [[https://miltonbaltazar.github.io/](https://miltonbaltazar.github.io/)](https://bento.me/miltonbaltazar)
+
 - ⚡ Fun fact **Trekking**
 
 <h3 align="left">Connect with me:</h3>
